@@ -23,7 +23,7 @@ jobs:
 
     - name: Run Minecraft Bot
       env:
-        MC_HOST: Kiingdom_SmP.aternos.me
+        MC_HOST: kiingdomsmp.aternos.me
         MC_PORT: 36463
         MC_USERNAME: GUARDIAN
       run: |
